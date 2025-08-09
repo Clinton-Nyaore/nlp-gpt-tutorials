@@ -4,6 +4,8 @@ start_date: 2025-08-07
 end_date: "ongoing"
 ---
 
+![Natural Language Processing Banner](../images/nlp-banner.jpg)
+
 # Intro to NLP
 
 In this learning session, we explored the basics of Natural Language Processing (NLP) with a focus on regular expressions, tokenization using NLTK, and visualizing word lengths in a script. Below is a summary of what we learned and practiced.
